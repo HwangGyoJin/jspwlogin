@@ -8,7 +8,7 @@ request.setCharacterEncoding("utf-8");
 
 
 
-<%-- <%
+<%
 String id=request.getParameter("id");
 String password=request.getParameter("password");
 
@@ -51,7 +51,7 @@ if(x==1){
 
 response.sendRedirect(msg);
 %>
- --%>
+
 
 
 
