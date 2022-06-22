@@ -14,7 +14,7 @@ request.setCharacterEncoding("utf-8");
 <h3>loginform</h3>
 
 
-
+<%-- 
 <script>
 function checkValue() {
 	inputForm=eval("document.logininfo");
@@ -68,7 +68,11 @@ function goJoinFrom() {
 		out.println("<font color='red' size='5'>아이디확인</font>");	
 	}
 	%>
+<<<<<<< HEAD
 </div> 
+=======
+</div> --%>
+>>>>>>> parent of cd78534 (stepgj2)
 
 
 
