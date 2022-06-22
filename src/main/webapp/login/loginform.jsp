@@ -68,11 +68,15 @@ function goJoinFrom() {
 		out.println("<font color='red' size='5'>아이디확인</font>");	
 	}
 	%>
+<<<<<<< HEAD
 
 </div> 
 
 </div>
 
+=======
+</div>
+>>>>>>> master
 
 
 

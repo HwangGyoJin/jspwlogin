@@ -13,12 +13,18 @@ request.setCharacterEncoding("utf-8");
 <h3>logoutproc.jsp</h3>
 
 
+<<<<<<< HEAD
  <%
 session.invalidate();
 response.sendRedirect("loginform.jsp");
 <<<<<<< HEAD
 %> 
 =======
+=======
+<%
+session.invalidate();
+response.sendRedirect("loginform.jsp");
+>>>>>>> master
 %>
 
 >>>>>>> jbrh
