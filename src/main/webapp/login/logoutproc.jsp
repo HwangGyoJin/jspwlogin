@@ -18,7 +18,8 @@ session.invalidate();
 response.sendRedirect("loginform.jsp");
 %> 
 
-
+<%
+%>
 
 </body>
 </html>
